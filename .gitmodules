@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/DynamixelDSK"]
+	path = catkin_ws/src/DynamixelDSK
+	url = git@github.com:wellyowo/DynamixelSDK.git
